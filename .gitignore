@@ -38,6 +38,7 @@ migrate_working_dir/
 /macos
 /web
 /windows
+/test
 
 # Web related
 lib/generated_plugin_registrant.dart
